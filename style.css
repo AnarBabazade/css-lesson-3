@@ -1,0 +1,21 @@
+*{
+    list-style: none;
+}
+.box{
+    width: 400px;
+    height: 500px;
+    border: 1px solid black;
+    text-align: center;
+}
+button{
+    background-color: blue;
+}
+input{
+    margin: 5px;
+}
+a{
+    color: black;
+}
+.different{
+    margin-right: 23px;
+}
